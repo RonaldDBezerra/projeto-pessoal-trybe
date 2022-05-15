@@ -12,7 +12,11 @@ Para o desenvolvimento desse projeto foram usadas as seguintes stacks: TrypeScri
 ### Como rodar o projeto na sua maquina
 
 #Faça o clone da aplicação;
+
 #Rode o npm install para baixar as dependecias da aplicação;
+
 #Rode o comando compose:up para subir os containers;
+
 #Dentro da pasta "backend" você pode testar todas as requisições da api;
+
 #Dentro da pasta "frontend" rode o comando npm start, para testar a aplicação no seu navegador;
